@@ -1,14 +1,14 @@
 # kiosk-mode
 
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-yellow.svg)](https://github.com/custom-components/hacs) [![hacs_badge](https://img.shields.io/badge/Buy-Me%20a%20Coffee-critical)](https://www.buymeacoffee.com/FgwNR2l)
+Original repository has been archived and therefore unavailable in HACS. This forked repo is to preserve the Dashboard customisation.
+
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-yellow.svg)](https://github.com/custom-components/hacs) 
 
 Hides the header and/or sidebar drawer in [Home Assistant](https://www.home-assistant.io/)
 
 ![image](example1.png)
 
 # Installation
-
-*If you previously used [custom-header](https://github.com/maykar/custom-header) you need to uninstall it from [HACS](https://hacs.xyz/)*<br>
 
 **Follow only one of two installation methods below, HACS or Manually:**
 
